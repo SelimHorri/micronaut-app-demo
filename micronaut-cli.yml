@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.selimhorri
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, java, java-application, junit, logback, maven, readme, shade, tomcat-server, yaml]
