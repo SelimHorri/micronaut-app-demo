@@ -1,0 +1,6 @@
+version: '3'
+services:
+  micronaut-app-demo-container:
+    image: micronaut-app-demo:2.0
+    ports:
+      - 8080:8080
